@@ -1,3 +1,11 @@
+**Submited to Pokéthon: The First Pokémon Hackathon for AI Agents**
+## LunaMon AI Agent 💐
+
+LunaMon AI Agent is an AI-powered automation tool designed for **Instagram and Twitter** to automate social media interactions such as posting, liking, and commenting. It leverages advanced AI models to generate engaging content, automate interactions, and manage social media accounts efficiently.
+
+Before using the automation features, you can personalize the agent by training with the following, including:
+
+- **YouTube Video URL** 🎥
 - **Audio File** 🎙️
 - **Portfolio or Website Link** 🌐
 - **File Formats Supported**: PDF, DOC, DOCX, TXT 📄
