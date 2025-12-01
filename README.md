@@ -12,9 +12,9 @@ Before using the automation features, you can personalize the agent by training 
 - **Audio File** 🎙️
 - **Portfolio or Website Link** 🌐
 - **File Formats Supported**: PDF, DOC, DOCX, TXT 📄
-https://github.com/user-attachments/assets/1ec4425f-54fd-4ee1-aa61-22fb4a3cf9d2
-## Features
 
+ ## [Demo Video](https://github.com/user-attachments/assets/1ec4425f-54fd-4ee1-aa61-22fb4a3cf9d2)
+## Features
 - **Instagram Automation**: Automatically log in, post photos, like posts, and leave thoughtful comments.
 - **Twitter Automation**: Automatically tweet, retweet, and like tweets.
 - **AI-Powered Content Generation**: Use Google Generative AI to create engaging captions and comments for Instagram and Twitter.
