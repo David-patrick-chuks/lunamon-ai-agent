@@ -1,4 +1,4 @@
-**Submited to Pokéthon: The First Pokémon Hackathon for AI Agents**
+**Submited to Hackathon**
 
 ## LunaMon AI Agent 💐
 <img width="1024" height="705" alt="luma-mama" src="https://github.com/user-attachments/assets/71b24a5c-67f0-4ba9-920b-0f1a1f683eca" />
